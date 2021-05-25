@@ -1,1 +1,1 @@
-# friendly-link
+# friendly-links
