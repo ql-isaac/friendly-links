@@ -7,29 +7,9 @@ about: 请根据指示规范填写友链格式
 ```json
 {
     "title": "",
-    "screenshot": "",
+    "screenshot": "https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://<你的域名>/",
     "url": "",
     "avatar": "",
-    "description": "",
-    "keywords": ""
+    "description": ""
 }
 ```
-
-<!--
-"title": "站点名称",
-"screenshot": "站点预览图链接",
-"url": "站点链接",
-"avatar": "头像链接",
-"description": "站点描述",
-"keywords": "关键词，作为分组名"
--->
-
-<!-- 示例 -->
-<!--
-"title": "学习与生活",
-"screenshot": "",
-"url": "https://ql-isaac.cn/",
-"avatar": "https://image.ql-isaac.cn/站长头像.jpg",
-"description": "It’s a beautiful day!",
-"keywords": "friendly links"
--->
